@@ -1,0 +1,5 @@
+C:\Users\jason.leong\Source\Repos\Novum.DecisionService\Novum.DecisionService.sln
+
+1) How does index work on duplicate values (in multiple fields)? does it find a random one and go from both directions?
+2) 
+3) 
